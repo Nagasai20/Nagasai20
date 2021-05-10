@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Nagasai20
-- 👀 I’m interested in Front End Development
+- 👋 Hi, I’m Nagasai Mallela,hails from India.
+- 👀 I’m working as a  Front End Engineer @xoxoday.com
 - 🌱 I’m currently learning Node and Next.JS
-- 💞️ I’m looking to collaborate on Front End
-- 📫 How to reach me ... @7095807081
+- 📫 Reach me on @+91-8919594366
 
 <!---
 Nagasai20/Nagasai20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
